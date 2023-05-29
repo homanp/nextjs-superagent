@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a minimal example of running the [Superagent](https://superagent.sh) Javascript SDK with NextJS.
 
 ## Getting Started
 
@@ -26,5 +26,3 @@ To learn more about Superagent, take a look at the following resources:
 - [Superagent Github repo](https://github.com/homanp/superagent) - checkout superagent on Github.
 - [Superagent JS SDK](https://github.com/homanp/superagent-js) - read more about the JS SDK.
 - [Documentation](https://docs.superagent.sh) - read our docs.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!

@@ -88,12 +88,6 @@ export default function Home() {
 
       <form onSubmit={handleSubmit(onSubmit)}>
         <div className="sm:col-span-4">
-          <label
-            htmlFor="username"
-            className="block text-sm font-medium leading-6 text-gray-900"
-          >
-            Username
-          </label>
           <div className="mt-2 flex justify-between space-x-2">
             <div className="rounded-md flex flex-1 shadow-sm ring-1 ring-inset ring-gray-300 focus-within:ring-2 focus-within:ring-inset focus-within:ring-indigo-600 ">
               <input

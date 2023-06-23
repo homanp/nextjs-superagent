@@ -45,7 +45,7 @@ export default function Home() {
             Demo
           </span>
           <span class="font-semibold mr-2 text-left flex-auto">
-            Ask questions to Teslas Q1 2023 Earnings Agent.
+            Ask questions about Alphabet Q1 2023 Earnings.
           </span>
         </div>
 
